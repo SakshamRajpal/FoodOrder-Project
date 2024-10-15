@@ -1,3 +1,9 @@
+
+
+
+![Screenshot 2024-10-14 183646](https://github.com/user-attachments/assets/37ac4906-f161-4ab2-892d-7104715cbd5a)
+![Screenshot 2024-10-14 183701](https://github.com/user-attachments/assets/2dae0538-a9ff-4298-8efe-b4637df47824)
+
 Excited to share my latest Web Development Project "QuickBite", a food ordering website that allows users to order variety of cuisines from their home with hassle-free online payment.
 ⚡ Technologies Used:-
 -Backend: node.js
