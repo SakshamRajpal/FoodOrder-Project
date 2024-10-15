@@ -1,8 +1,7 @@
-
-
-
-![Screenshot 2024-10-14 183646](https://github.com/user-attachments/assets/37ac4906-f161-4ab2-892d-7104715cbd5a)
-![Screenshot 2024-10-14 183701](https://github.com/user-attachments/assets/2dae0538-a9ff-4298-8efe-b4637df47824)
+![Screenshot 2024-10-14 183646](https://github.com/user-attachments/assets/37ac4906-f161-4ab2-892d-7104715cbd5a)![Screenshot 2024-10-14 183701](https://github.com/user-attachments/assets/2dae0538-a9ff-4298-8efe-b4637df47824)
+![Screenshot 2024-10-14 183701](https://github.com/user-attachments/assets/2dae0538-a9ff-4298-8efe-b4637df47824)![Screenshot 2024-10-14 183727](https://github.com/user-attachments/assets/110fb35d-a1f7-42fd-83b7-ef60690ba6f2)
+![Screenshot 2024-10-14 183759](https://github.com/user-attachments/assets/582369d9-2fc2-45dd-87de-6433c5ab9fad)![Screenshot 2024-10-14 183819](https://github.com/user-attachments/assets/0a8825be-2b79-47a6-9b1e-228108bf3a94)
+![Screenshot 2024-10-14 184340](https://github.com/user-attachments/assets/894c8237-aecd-4a53-8ec6-7b3747bc613a)![Screenshot 2024-10-14 184111](https://github.com/user-attachments/assets/3e93ab5b-6a24-4fe8-ae09-ce160b612a81)
 
 Excited to share my latest Web Development Project "QuickBite", a food ordering website that allows users to order variety of cuisines from their home with hassle-free online payment.
 ⚡ Technologies Used:-
