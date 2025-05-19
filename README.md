@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙️ Technologies Used
+## ⚙️ Technologies Used:
 
 - **Backend:** Node.js  
 - **Frontend:** HTML, CSS, Bootstrap, React.js  
@@ -19,7 +19,7 @@
 
 ---
 
-## 📑 Key Features
+## 📑 Key Features:
 
 ### 🛒 Streamlined Ordering (ExpressJS)
 - Cart management system built using ExpressJS.
@@ -39,7 +39,7 @@
 
 ---
 
-## 📘 What I Learned
+## 📘 What I Learned:
 
 - ✔️ **Bootstrap** significantly improves responsiveness and aesthetics with minimal effort.
 - ✔️ **MongoDB** uses JSON format and supports encrypted storage of sensitive user data via JWT (JSON Web Tokens).
@@ -51,7 +51,79 @@
 
 ---
 
-## 🔗 Project Repository
+## 🔗 Project Repository:
 
 📁 **GitHub:** [https://lnkd.in/gMKuu8Um](https://lnkd.in/gMKuu8Um)  
 🚧 *Deployment is in progress. The live version will be shared soon!*
+
+---
+
+## 🤸 Quick Start:
+
+Follow these steps to get the project running locally.
+
+### 🔧 Prerequisites
+
+Ensure you have the following installed or login:
+- Git
+- Firebase
+- Node.js
+- npm (Node Package Manager)
+
+### 📦 Clone the Repository
+```bash
+git clone https://github.com/SakshamRajpal/FoodOrder-Project.git
+cd FoodOrder-Project
+```
+
+
+### 📥 Install Dependencies
+```bash
+npm install
+```
+
+### 🔐 Set Up Environment Variables
+- Create a .env.local file in the root directory:
+```bash
+PORT = 4000
+NODE_ENV = DEVELOPMENT
+
+DB_LOCAL_URI = mongodb://127.0.0.1:27017/Internship
+
+JWT_SECRET=
+JWT_EXPIRES_TIME=90
+
+#CLOUDINARY
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+
+#MAIL-TRAP
+EMAIL_USERNAME=
+EMAIL_PASSWORD=
+EMAIL_HOST=sandbox.smtp.mailtrap.io
+EMAIL_PORT=2525
+
+FRONTEND_URL="http://localhost:3000"
+
+#STRIPE
+STRIPE_SECRET_KEY=
+STRIPE_API_KEY=
+
+
+```
+Replace the placeholders with your actual credentials.
+
+###  ▶️ Run the Development Server
+```bash
+npm run start
+```
+Visit http://localhost:3000 in your browser.
+
+---
+
+## 🤝 Contributing:
+
+- Found a bug or want to contribute?
+- Feel free to fork the repo, make changes, and open a pull request.
+- ⭐ If you like this project, consider giving it a star!
